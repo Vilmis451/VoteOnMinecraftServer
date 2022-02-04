@@ -25,6 +25,7 @@ Basic bot to go from google to desired server and voting on it.
 5. Solve reCaptcha if not lucky
 6. Thank you for the vote
 
-#Authors/Creators
+
+# Authors/Creators
 
 1. [Vilhelmas](https://github.com/Vilmis451)
